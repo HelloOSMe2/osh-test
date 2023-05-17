@@ -8,6 +8,10 @@
 
 [https://osfiles.pages.dev/showmsg.exe](https://osfiles.pages.dev/showmsg.exe)
 
+<h2>Q:出现"通常不会下载某某.exe"怎么办？</h2>
+A:别担心，这是因为程序是自己写的，没有人家大公司的认证证书。<br>
+鼠标悬停在那行字上，向右移动到那三个点上，点击<tt>保留</tt>，再点击<tt>显示详细信息</tt>，再点击<tt>仍然保留</tt>
+
 打开`此电脑`，然后打开`C:\`，然后打开`Users`文件夹或`用户`文件夹，然后打开`Lenovo`文件夹，然后打开`下载`文件夹或`Downloads`文件夹;
 
 打开`register.exe`然后点击最小化图标:  
