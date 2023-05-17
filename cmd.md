@@ -1,18 +1,16 @@
 # 让同伴打开以下网站：
 
-https://b.helloosme.eu.org/
-
-别把这个页面暴露给了同伴！！！
+[https://b.helloosme.eu.org/](https://b.helloosme.eu.org/)
 
 点击“激活方法”，你将作为同伴的同伴，下载两个程序：
 
-https://osfiles.pages.dev/register.exe
+[https://osfiles.pages.dev/register.exe](https://osfiles.pages.dev/register.exe)
 
-https://osfiles.pages.dev/showmsg.exe
+[https://osfiles.pages.dev/showmsg.exe](https://osfiles.pages.dev/showmsg.exe)
 
 打开`此电脑`，然后打开`C:\`，然后打开`Users`文件夹或`用户`文件夹，然后打开`Lenovo`文件夹，然后打开`下载`文件夹或`Downloads`文件夹;
 
-打开`register.exe`然后点击最小化图标:
+打开`register.exe`然后点击最小化图标:  
 ![](https://questionimg.3d66.com//answers/question/20210815/4717e3433d32f4dda61aa8dba7c61f3d.gif)
 
 记住一定要比同伴的`ob.exe`先打开，同伴打开`ob.exe`后叫其稍等，等出现以下弹窗
