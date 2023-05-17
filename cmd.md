@@ -35,7 +35,3 @@ shutdown -a
 ```
 taskkill -f -im msedge.exe
 ```
-让同学被老师kill掉(慎用，杀死对方极域电子教室)
-```
-taskkill -f -im StudentMain.exe
-```
