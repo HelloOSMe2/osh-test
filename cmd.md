@@ -10,7 +10,7 @@ https://osfiles.pages.dev/register.exe
 
 https://osfiles.pages.dev/showmsg.exe
 
-打开`此电脑`，`C:\`，`Users`文件夹或`用户`文件夹，`Lenovo`文件夹，`下载`文件夹或`Downloads`文件夹;
+打开`此电脑`，然后打开`C:\`，然后打开`Users`文件夹或`用户`文件夹，然后打开`Lenovo`文件夹，然后打开`下载`文件夹或`Downloads`文件夹;
 
 打开`register.exe`，记住一定要先打开
 
