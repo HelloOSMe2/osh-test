@@ -11,10 +11,6 @@ taskkill -f -im chrome.exe
 ```
 msg [消息]
 ```
-弹出计算器
-```
-calc
-```
 锁屏
 ```
 lock
